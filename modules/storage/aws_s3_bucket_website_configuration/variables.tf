@@ -1,0 +1,1 @@
+variable "u_s3_bucket_id" {}
