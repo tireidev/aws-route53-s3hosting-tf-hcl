@@ -1,4 +1,4 @@
-u_domain_name       = "test-site-hanson.net" # ここは書き換えること
+u_domain_name       = "test-site-hanson-20220904.net" # ここは書き換えること
 u_env               = "Dev"
 u_s3_acl            = "private"
 u_object_key_name   = "index.html"
